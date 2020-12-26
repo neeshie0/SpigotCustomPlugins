@@ -1,0 +1,6 @@
+name: CustomFarmEnchants
+version: 1.0
+main: com.anemovva.gmail.customFarmEnchants.CustomFarmEnchants
+description: Adds a few useful treasure enchantments to the game
+api-version: 1.16
+author: neeshie0
